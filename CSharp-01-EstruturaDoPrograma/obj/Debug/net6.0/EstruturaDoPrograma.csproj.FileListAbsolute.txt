@@ -1,0 +1,15 @@
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.exe
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.deps.json
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.runtimeconfig.json
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\bin\Debug\net6.0\EstruturaDoPrograma.pdb
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.csproj.AssemblyReference.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfoInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.AssemblyInfo.cs
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.csproj.CoreCompileInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\refint\EstruturaDoPrograma.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.pdb
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\EstruturaDoPrograma.genruntimeconfig.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-01-EstruturaDoPrograma\obj\Debug\net6.0\ref\EstruturaDoPrograma.dll

@@ -1,0 +1,5 @@
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-02-Instrucoes\obj\Debug\net6.0\Instrucoes.csproj.AssemblyReference.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-02-Instrucoes\obj\Debug\net6.0\Instrucoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-02-Instrucoes\obj\Debug\net6.0\Instrucoes.AssemblyInfoInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-02-Instrucoes\obj\Debug\net6.0\Instrucoes.AssemblyInfo.cs
+D:\DIO\GFT4\Desafios-DIO-GFT-4\CSharp-02-Instrucoes\obj\Debug\net6.0\Instrucoes.csproj.CoreCompileInputs.cache
