@@ -1,0 +1,15 @@
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\bin\Debug\net6.0\Aula02.exe
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\bin\Debug\net6.0\Aula02.deps.json
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\bin\Debug\net6.0\Aula02.runtimeconfig.json
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\bin\Debug\net6.0\Aula02.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\bin\Debug\net6.0\Aula02.pdb
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.csproj.AssemblyReference.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfoInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfo.cs
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.csproj.CoreCompileInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\refint\Aula02.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.pdb
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\Aula02.genruntimeconfig.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\Aula02\obj\Debug\net6.0\ref\Aula02.dll
