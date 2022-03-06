@@ -1,0 +1,15 @@
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.csproj.AssemblyReference.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.GeneratedMSBuildEditorConfig.editorconfig
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.AssemblyInfoInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.AssemblyInfo.cs
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.csproj.CoreCompileInputs.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\bin\Debug\net6.0\personagem_rpg.exe
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\bin\Debug\net6.0\personagem_rpg.deps.json
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\bin\Debug\net6.0\personagem_rpg.runtimeconfig.json
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\bin\Debug\net6.0\personagem_rpg.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\bin\Debug\net6.0\personagem_rpg.pdb
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\refint\personagem_rpg.dll
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.pdb
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\personagem_rpg.genruntimeconfig.cache
+D:\DIO\GFT4\Desafios-DIO-GFT-4\personagem_rpg\obj\Debug\net6.0\ref\personagem_rpg.dll
