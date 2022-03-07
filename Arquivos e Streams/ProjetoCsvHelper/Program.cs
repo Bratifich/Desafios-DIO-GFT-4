@@ -101,7 +101,7 @@ static void LerCsvComClasse()
     var fi = new FileInfo(path);
 
     if (!fi.Exists)
-        throw new FileNotFoundException($"O aruivo {path} não existe!");
+        throw new FileNotFoundException($"O arquivo {path} não existe!");
     
     using var sr = new StreamReader(fi.FullName);
     var csvConfig = new CsvConfiguration(CultureInfo.InvariantCulture);
