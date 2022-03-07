@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GTg86tnJggSjYKCnUmtKRPjqrhUbqf/p+286eZittpiZhhXErDI+FnlJgv4lbpa1XSL7YclnQqA+Zh/hZDgU+Q==",
+  "success": true,
+  "projectFilePath": "D:\\DIO\\GFT4\\Desafios-DIO-GFT-4\\Arquivos e Streams\\ProjetoCsvHelper\\ProjetoCsvHelper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\csvhelper\\27.2.1\\csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
